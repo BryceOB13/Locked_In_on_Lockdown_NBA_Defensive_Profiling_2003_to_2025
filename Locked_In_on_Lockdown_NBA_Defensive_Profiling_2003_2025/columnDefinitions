@@ -1,0 +1,56 @@
+# Defensive_Stats_Matrix_2003_2025 Column Definitions
+
+season — NBA season (e.g., 2024 = 2023-24 season)
+
+team — Full team name (e.g., Los Angeles Lakers)
+
+abbreviation — Short team abbreviation (e.g., LAL)
+
+age — Average weighted age of the roster during the season
+
+w — Number of wins
+
+l — Number of losses
+
+d_rtg — Defensive Rating: Points allowed per 100 possessions (lower is better defense)
+
+pace — Pace: Number of possessions per 48 minutes (higher pace = faster game)
+
+opp_e_fg_percent — Opponent Effective Field Goal Percentage: Shooting percentage adjusted for 3-pointers (lower = better defense)
+
+opp_tov_percent — Opponent Turnover Percentage: Percentage of opponent possessions ending in a turnover (higher = better defense)
+
+opp_ft_fga — Opponent Free Throws Made per Field Goal Attempt: How often opponents score from free throws relative to field goal attempts (lower = better foul discipline)
+
+drb_per_game — Defensive Rebounds per Game: Average defensive rebounds secured per game
+
+stl_per_game — Steals per Game: Average steals per game (forcing opponent turnovers)
+
+blk_per_game — Blocks per Game: Average blocks per game (preventing shots at the rim)
+
+pf_per_game — Personal Fouls per Game: Average personal fouls committed per game (lower = better defensive discipline)
+
+opp_fg_per_game — Opponent Field Goals Made per Game: Average number of made field goals allowed per game
+
+opp_fg_percent — Opponent Field Goal Percentage: Opponent's overall shooting percentage (lower = better defense)
+
+opp_x3p_per_game — Opponent Three-Point Field Goals Made per Game: 3-pointers made by opponents per game
+
+opp_x3p_percent — Opponent Three-Point Percentage: Opponent's 3-point shooting accuracy (lower = better perimeter defense)
+
+opp_x2p_per_game — Opponent Two-Point Field Goals Made per Game: 2-pointers made by opponents per game
+
+opp_x2p_percent — Opponent Two-Point Percentage: Opponent's 2-point shooting accuracy (lower = better paint/rim defense)
+
+opp_ft_per_game — Opponent Free Throws Made per Game: Number of free throws made by opponents per game
+
+opp_fta_per_game — Opponent Free Throw Attempts per Game: Number of free throws attempted by opponents per game
+
+opp_orb_per_game — Opponent Offensive Rebounds per Game: Offensive rebounds grabbed by opponents per game (lower = better defensive rebounding)
+
+opp_ast_per_game — Opponent Assists per Game: Assists recorded by opponents per game (lower = better shot contesting)
+
+opp_tov_per_game — Opponent Turnovers per Game: Turnovers committed by opponents per game (higher = better defensive pressure)
+
+opp_pts_per_game — Opponent Points per Game: Points scored by opponents per game (lower = better overall defense)
+
